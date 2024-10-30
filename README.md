@@ -3,6 +3,7 @@
 🚨 archivo principal: proyecto4.ipynb 🚨
 
 Objetivo del Proyecto
+
 El objetivo de este proyecto es realizar un análisis preliminar de las tarifas de prepago ofrecidas por Megaline, específicamente las tarifas Surf y Ultimate. El departamento comercial necesita determinar cuál de estas tarifas genera más ingresos, lo que permitirá ajustar el presupuesto de publicidad y optimizar la estrategia comercial.
 
 Contexto
